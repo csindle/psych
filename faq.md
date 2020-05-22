@@ -12,3 +12,7 @@ No.
 **Can I pay by credit card?**
 
 Yes.
+
+**Do you have a magic wand?**
+
+No.
