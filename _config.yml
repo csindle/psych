@@ -21,7 +21,7 @@
 title: "Clinical Psychology: Megan Barber"
 email: megan@clinicalpsy.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Evidence based Clinical Psychology Services in Worcester, ZA and online.
+  Evidence based Clinical Psychology services online and in Worcester, South Africa.  HPCSA Number: PS0141291
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clinicalpsy.ch/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
@@ -35,6 +35,14 @@ theme:
   minima
   # jekyll-theme-minimal
   # jekyll-theme-slate
+
+# This allows you to set which pages you want to appear in the navigation area and configure order of the links.
+header_pages:
+  - index.md
+  - about.md
+  - services.md
+  - faq.md
+  - contact.md
 
 #plugins:
 #  - jekyll-feed
