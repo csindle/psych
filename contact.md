@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "Contact us"
+title: "Bookings"
 ---
 
 Our address is:
 
-Map:
+Worcester
 
-Or reach out by phone (082-333-4444), WhatsApp, or email.
+![map](/assets/img/location.png)
+
+Please email us (NB: include your telephone number) to book an appointment,
+or for more information.

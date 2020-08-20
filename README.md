@@ -1,1 +1,1 @@
-Please see the live site [here](https://psych.succinct.co.za/).
+Please see the live site [here](https://www.clinicalpsy.ch/).
