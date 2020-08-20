@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Clinical Psychology
+title: "Clinical Psychology: Megan Barber"
 email: megan@clinicalpsy.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Cutting edge Clinical Psychology Services in Worcester, ZA and online.
+  Evidence based Clinical Psychology Services in Worcester, ZA and online.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://clinicalpsy.ch/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 #github_username:
 #linkedin_username:

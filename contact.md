@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bookings"
+title: "Contact"
 ---
 
 Our address is:
