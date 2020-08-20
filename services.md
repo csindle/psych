@@ -3,11 +3,14 @@ layout: page
 title: Services
 ---
 
-We offer a range of delightful services:
+I offer a range of services:
 
-1. Aroma therapy
-1. Hypnosis
-1. Sensory deprivation
+1. Short and long term therapy - ranging from skill development, Cognitive Behavioural Therapy (CBT), Dialectical Behavioural Therapy (DBT), Mindfulness and Psychodynamic therapy.  
+1. Individual sessions with Adults, Adolescents and Children.
+1. Family interventions
+1. Couple interventions. 
+1. Group Therapy sessions. 
+1. Psychometric assess
 
 
 

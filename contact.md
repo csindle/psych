@@ -9,5 +9,5 @@ Worcester
 
 ![map](/assets/img/location.png)
 
-Please email us (NB: include your telephone number) to book an appointment,
-or for more information.
+Due to the nature of my work it is often difficult for me to answer my phone during the day, 
+therefore please email me (NB: include your telephone number) to book an appointment, or for more information.
