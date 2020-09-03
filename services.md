@@ -1,16 +1,24 @@
 ---
 layout: page
 title: Services
+description: Psychological services offered.
 ---
 
-I offer a range of services:
+I offer short and long term therapy for:
+1. Adults,
+1. Adolescents,
+1. Children,
+1. Families,
+1. Couples, and
+1. Groups.
 
-1. Short and long term therapy - ranging from skill development, Cognitive Behavioural Therapy (CBT), Dialectical Behavioural Therapy (DBT), Mindfulness and Psychodynamic therapy.  
-1. Individual sessions with Adults, Adolescents and Children.
-1. Family interventions
-1. Couple interventions. 
-1. Group Therapy sessions. 
+I'm am trained in the following therapeutic techniques:
 
-
-
-
+* Psychodynamic Therapy,
+* Play Therapy,
+* Cognitive Behavioural Therapy (CBT),
+* Dialectical Behavioural Therapy (DBT),
+* Trauma specific interventions,
+* Mindfulness,
+* Mentalization based treatments,
+* Coping skills development.
