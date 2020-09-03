@@ -10,7 +10,7 @@ I offer a range of services:
 1. Family interventions
 1. Couple interventions. 
 1. Group Therapy sessions. 
-1. Psychometric assess
+
 
 
 
