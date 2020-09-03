@@ -44,8 +44,9 @@ header_pages:
   - faq.md
   - contact.md
 
-#plugins:
+plugins:
 #  - jekyll-feed
+  - jekyll-sitemap
 
 #show_downloads: false
 
