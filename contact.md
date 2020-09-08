@@ -1,13 +1,32 @@
 ---
 layout: page
-title: "Contact"
+title: Contact
+description: Contact information
 ---
 
-Our address is:
+To book an appointment, or for more information, please email me with your telephone number,
+and any questions you may have (due to the nature of my work, it is difficult to contact me by phone).
 
-Worcester
+Email:
+
+    megan@clinicalpsy.ch
+
+Physical address:
+
+    65 Riebeeck Street
+    Paglande
+    Worcester
+    6849
+    Western Cape
+    South Africa
 
 ![map](/assets/img/location.png)
 
-Due to the nature of my work it is often difficult for me to answer my phone during the day, 
-therefore please email me (NB: include your telephone number) to book an appointment, or for more information.
+
+HPCSA Number:
+
+    PS0141291
+
+BHF Practice Number:
+
+    9990860010886807

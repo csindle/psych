@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Clinical Psychology: Megan Barber"
+title: "Clinical Psychologist: Megan Barber"
 email: megan@clinicalpsy.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Evidence based Clinical Psychology services online and in Worcester, South Africa.  HPCSA Number: PS0141291 BHF Practice Number: 9990860010886807
+  Evidence based Clinical Psychology services online, and in Worcester, South Africa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clinicalpsy.ch" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
