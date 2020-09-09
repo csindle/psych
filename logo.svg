@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/csindle/Documents/psych/logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-9.1101818"
+     inkscape:cx="130.2164"
      inkscape:cy="13.953065"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -67,13 +70,13 @@
          id="tspan815"
          x="41.961315"
          y="98.151466"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70138931px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70138931px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;stroke-width:0.26458332"
          dx="0 0 0 0 0 0 0 0 0.98000002 0 0 0 0">Clinical<tspan
-   style="letter-spacing:-0.15875px"
+   style="letter-spacing:-0.15875px;fill:#808080"
    id="tspan2807">P</tspan>s<tspan
    id="tspan2579"
-   style="letter-spacing:-0.88106251px;fill:#333333">y</tspan><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.26458332px;writing-mode:lr-tb;text-anchor:start;fill:#808080"
+   style="letter-spacing:-1.05833333px;fill:#808080">y</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.52916667px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc"
    id="tspan2391">.</tspan>ch</tspan></text>
     <text
        xml:space="preserve"
@@ -85,7 +88,7 @@
          id="tspan819"
          x="54.790253"
          y="89.608185"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -96,7 +99,7 @@
          id="tspan887"
          x="36.663689"
          y="106.79234"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <g
        transform="matrix(0.03330316,0,0,0.03330316,32.343618,89.681836)"
        style="display:inline"
