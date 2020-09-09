@@ -62,3 +62,5 @@ Along with this private practice, I'm also working in the public sector at Worce
 * Trauma de-briefing/processing,
 * Family, couple, and group work, and
 * Screening and supporting people who suffer from severe mental disorders.
+
+![about](/assets/img/purple_daisies.jpg)

@@ -16,3 +16,5 @@ and you sharing your unique life experiences and circumstances.
 This method is based on the understanding that human behaviour is complex and we all come from our own
 individual lived experiences of the world. Therefore, this needs to be considered and understood
 when developing an individual treatment plan.
+
+![home](/assets/img/ivy.jpg)

@@ -22,3 +22,5 @@ I'm am trained in the following therapeutic techniques:
 * Mindfulness,
 * Mentalization based treatments,
 * Coping skills development.
+
+![services](/assets/img/sunflower.jpg)

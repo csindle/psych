@@ -46,4 +46,4 @@ so that we can find a way to make it more comfortable for you.
 
 Yes, excepting for a few very specific situations that will be explained to you at the outset.
 
-
+![faq](/assets/img/nasturtiums.jpg)
