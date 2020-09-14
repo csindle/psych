@@ -12,7 +12,7 @@ I offer short and long term therapy for:
 1. Couples, and
 1. Groups.
 
-I'm am trained in the following therapeutic techniques:
+I am trained in the following therapeutic techniques:
 
 * Psychodynamic Therapy,
 * Play Therapy,

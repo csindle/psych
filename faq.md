@@ -44,6 +44,6 @@ so that we can find a way to make it more comfortable for you.
 
 **Are our sessions confidential?**
 
-Yes, excepting for a few very specific situations that will be explained to you at the outset.
+Yes, as stipulated by the Health Professions Council of South Africa.
 
 ![faq](/assets/img/nasturtiums.jpg)
