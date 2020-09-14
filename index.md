@@ -4,7 +4,7 @@ title: Home
 description: Introduction to Megan Barber's Clinical Psychology practice. 
 ---
 
-### _"Life is hard, and sometimes we all need a little support and help in understanding it."_
+### _"Life is hard, and sometimes we all need a little support and help along the way."_
 
 
 I am here to provide a safe space for us to explore your internal world

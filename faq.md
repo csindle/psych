@@ -26,7 +26,7 @@ Sessions are charged at the prevailing medical aid rates.
 
 **Do you offer online sessions?**
 
-Yes. Many people prefer this.  If you do (even temporarily), please let me know.
+Yes.  If you prefer this method (even temporarily), please let me know.
 
 
 **Should I have reason, goal, or focus for the therapy?**
@@ -38,8 +38,8 @@ Yes, but this is often very difficult to define initially, so we can work togeth
 
 Yes, it is normal and very understandable to be anxious when embarking on the sometimes uncomfortable 
 process necessary for growth and development.
-If you are anxious about this, please mention it early on 
-so that we can find a way to make it more comfortable for you.
+Please mention if you're worried early on,
+so that we can find a way to make this journey more comfortable for you.
 
 
 **Are our sessions confidential?**
