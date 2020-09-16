@@ -1,0 +1,15 @@
+
+Daisy Colours:
+
+blue ccccffff
+red ffaaaaff
+green ccffaaff
+yellow ffee99ff
+grey ccccccff
+centre ddddddff
+
+
+text 888888ff
+period ccccccff
+strapline: 666666ff
+
