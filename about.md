@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Academic records, and work experience.
+description: Academic records and work experience.
 ---
 
 I am a trained Clinical Psychologist who is registered with the Health Professions Council of South Africa (HPCSA),

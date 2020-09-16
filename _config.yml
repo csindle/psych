@@ -22,7 +22,7 @@ title: "Megan Barber, Clinical Psychologist"
 #email: megan@clinicalpsy.ch
 author: "Megan Barber"
 description: >- # this means to ignore newlines until "baseurl:"
-  Evidence based Clinical Psychology services online, and in Worcester, South Africa.
+  Evidence-based Clinical Psychology services offered online, and in Worcester, South Africa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clinicalpsy.ch" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
@@ -46,7 +46,6 @@ header_pages:
   - contact.md
 
 plugins:
-#  - jekyll-feed
   - jekyll-sitemap
 
 #show_downloads: false
@@ -66,8 +65,6 @@ exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
