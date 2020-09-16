@@ -9,7 +9,7 @@ grey ccccccff
 centre ddddddff
 
 
-text 888888ff
+text 777777ff
 period ccccccff
-strapline: 666666ff
+strapline: 555555ff
 
