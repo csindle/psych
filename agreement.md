@@ -65,24 +65,18 @@ Therefore, please contact:
 1. The client takes full responsibility for the payment of the account.                
 
 ---
----
-
 Client's full name:
 
 ---
-
 Client's signature (if 14 years or older):
 
 ___
-
 Legal Guardian's Signature:
 
 ___
-
 Date:
 
 ___
----
 
 
 From time to time this contract may be updated and published on
