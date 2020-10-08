@@ -4,16 +4,15 @@ title: Contact
 description: Contact information
 ---
 
-To book an appointment or for more information, please complete the below form, or email me with your telephone number
-and any questions you may have (due to the nature of my work, it is difficult to contact me by phone).
-
+To book an appointment or for more information, please complete the form below
+(or email me your telephone number), and I will call you back.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf3oitTxxO0BlL0vr9v1KDynj7ctqXv0JqYboroK9jWorOgdA/viewform?embedded=true"
  width="100%" height="860" frameborder="0" marginheight="0" marginwidth="0">
 Loading…</iframe>
 
 
-Email:
+Email address:
 
     megan@clinicalpsy.ch
 
